@@ -53,6 +53,7 @@ body {
     padding: 0px 16px;
     display: grid;
     /* grid-template-columns: 1fr; */
+    margin: 0 auto;
 }
 
 header{
@@ -280,7 +281,7 @@ nav ol{
         --article-title-font-size: 18px;
         --article-title-font-weight: 800;
         --article-title-line-height: 24px;
-        
+
         --article-preview-color: #5e607a;
         --article-preview-font-size: 15px;
         --article-preview-font-weight: 400;
@@ -288,7 +289,8 @@ nav ol{
     }
     body {
         width: 1440px;
-        padding:  72px 165px 129px 165px;   
+        padding:  72px 165px 129px 165px;  
+        margin: 0 auto;
     }
 
     header{
